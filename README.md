@@ -120,7 +120,7 @@ Tech: **Next.js, Prisma, Supabase, Tailwind**
     <img src="https://skillicons.dev/icons?i=gmail" height="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/onur-yemez-18a837168/">
+  <a href="https://www.linkedin.com/in/onur-yemez/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
 </p>
