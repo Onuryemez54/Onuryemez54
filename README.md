@@ -1,57 +1,98 @@
+<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Onur Yemez</h1>
-<h3 align="center">A passionate Frontend Developer who loves building modern web applications</h3>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1500&color=00E5FF&center=true&vCenter=true&width=500&lines=Web+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences" alt="Typing SVG" />
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=onuryemez54&label=Profile%20views&color=0e75b6&style=flat" alt="onuryemez54" />
+ Passionate about building modern, scalable and user-friendly web applications.<br />
+ Focused on React, Next.js, TypeScript, Supabase, Firebase & high-quality UI/UX.  
 </p>
 
 ---
 
-- 🔭 I’m currently working on **React** and learning **Next.js**
-- 💻 I’m experienced with **HTML, CSS, JavaScript, TypeScript, React, Redux, Context API, Router-DOM, React-Hook-Form**
-- 🎨 I use **Tailwind CSS, MUI, Styled-Components, Module.css, Bootstrap** and traditional **styles.css**
-- 📘 I’m passionate about clean code, scalable UI and reusability
-- 🌱 Constantly learning and building my skills in the modern frontend ecosystem
-- 📫 Reach me at: **onuryemez.is@gmail.com**
+## 🧑‍💻 **About Me**
+
+- 🔭 Currently working as **Web Developer**
+- ⚡ Love modern UI, clean code & scalable design systems
+- 🌱 Focused on improving with **Next.js 15/16, Supabase, Firebase**
+- 💬 Ask me about **React, Next.js, Tailwind, Supabase, Firebase**
+- 📫 Reach me: **onuryemez.is@gmail.com**
 
 ---
 
-<h3 align="left">🧩 Languages and Tools:</h3>
+# 🛠️ **Tech Stack**
+
+### 🚀 Frontend
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://mui.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="mui" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://styled-components.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="styled-components" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,vite" height="45" />
 </p>
 
----
-
-<h3 align="left">📲 Connect with me:</h3>
+### 🗄 Backend & Databases
 <p align="left">
-  <a href="https://codepen.io/onuryemez54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/onuryemez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/onrymz54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,postgres" height="45" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,linux" height="45" />
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+# ⭐ **Featured Projects**
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onuryemez54&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+## 🌍 **Travel Route App**
+A real-world travel planner with maps, Redux state, and persistent data  
+➡️ **Repo:** *coming soon*  
+**Tech:** React, Redux Toolkit, Leaflet.js, Tailwind
+
+---
+
+## 🏨 **Paradise Hotel (The Wild Oasis)**
+Full hotel booking system with authentication, database, admin panel  
+➡️ **Repo:** *coming soon*  
+**Tech:** Next.js, Prisma, Supabase, TailwindCSS
+
+---
+
+## 🍷 **PickYourPour**
+Working as Web Developer Intern — production-level feature development  
+➡️ *Private repo, but contributing actively*
+
+---
+
+# 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onuryemez&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuryemez&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=onuryemez54&show_icons=true&locale=en" alt="github-stats" />
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=onuryemez&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onuryemez54&" alt="github-streak" />
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=onuryemez&theme=onestar&no-bg=true&no-frame=true" />
 </p>
+
+---
+
+# 🌐 **Connect With Me**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/onur-yemez-18a837168/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+</p>
+
+---
+
+# 💼 **Portfolio**
+⚡ *Coming Soon – Next.js Portfolio Website Under Development*
+
+---
+
+### ⭐ *If you like my work, consider starring my repositories!*
