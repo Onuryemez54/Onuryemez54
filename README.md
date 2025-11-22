@@ -1,5 +1,7 @@
 
-<img width="1536" height="300" alt="ChatGPT Image Nov 22, 2025, 02_20_52 PM" src="https://github.com/user-attachments/assets/75943483-2adc-44c7-8b9b-c53feb7269fb" />
+<img width="1536" height="250" alt="ChatGPT Image Nov 22, 2025, 02_20_52 PM" src="https://github.com/user-attachments/assets/75943483-2adc-44c7-8b9b-c53feb7269fb" />
+
+---
 
 <h1 align="center">Hi 👋, I'm Onur Yemez</h1>
 
