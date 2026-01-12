@@ -99,7 +99,7 @@ Tech: React, Redux Toolkit, Leaflet.js, Tailwind <br/>
 
 ### 🏨 Paradise Hotel 
 Full hotel booking platform  
-➡️ Repo: coming soon <br/>
+➡️ Repo: https://github.com/Onuryemez54/The-Paradise-Hotel <br/>
 Tech: **Next.js, Prisma, Supabase, Tailwind**
 
 
