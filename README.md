@@ -89,18 +89,23 @@
 
 # ⭐ Featured Projects
 
+### 🏨 The Paradise Hotel  
+A real-world hotel booking platform focusing on secure auth, transactions, and responsive UX.  
+
+➡️ Repo: https://github.com/Onuryemez54/The-Paradise-Hotel  
+Tech: **Next.js 16, React 19, TypeScript, Prisma, Supabase Auth, PostgreSQL, Tailwind CSS**
+
+
+----
+
 ### 🌍 Travel Route App  
-A real-world travel planner with maps, Redux state, and persistent data <br/>
+A real-world travel planner with maps, Redux state, and persistent data 
+
 ➡️ Repo: https://github.com/Onuryemez54/Travel-Route-App <br/>
 Tech: React, Redux Toolkit, Leaflet.js, Tailwind <br/>
 🚀 This project is currently being upgraded to a full-stack Next.js version (Next.js 15 + Supabase).
 
-----
 
-### 🏨 Paradise Hotel 
-Full hotel booking platform  
-➡️ Repo: https://github.com/Onuryemez54/The-Paradise-Hotel <br/>
-Tech: **Next.js, Prisma, Supabase, Tailwind**
 
 
 # 📊 GitHub Stats
