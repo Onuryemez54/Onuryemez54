@@ -95,6 +95,8 @@ A real-world hotel booking platform focusing on secure auth, transactions, and r
 ➡️ Repo: https://github.com/Onuryemez54/The-Paradise-Hotel  
 Tech: **Next.js 16, React 19, TypeScript, Prisma, Supabase Auth, PostgreSQL, Tailwind CSS**
 
+🌐 **Live Demo:** https://paradisehotel.live
+
 
 ----
 
