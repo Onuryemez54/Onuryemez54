@@ -112,8 +112,8 @@ Tech: React, Redux Toolkit, Leaflet.js, Tailwind <br/>
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Onuryemez54&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onuryemez54&layout=compact&theme=tokyonight" height="170"/>
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Onuryemez54&show_icons=true&theme=tokyonight&cache_seconds=7200" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Onuryemez54&layout=compact&theme=tokyonight&cache_seconds=7200" />
 </p>
 
 <p align="center">
