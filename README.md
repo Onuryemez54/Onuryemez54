@@ -94,7 +94,7 @@ A personal portfolio website built with Next.js, showcasing my projects, skills,
 experience. It features a clean and responsive design, smooth animations, and is optimized
 for performance
 
-➡️ Repo: https://github.com/Onuryemez54/My-Portfolio-Website
+➡️ Repo: https://github.com/Onuryemez54/My-Portfolio-Website <br/>
 Tech: **Next.js 16, React 19, TypeScript, Tailwind CSS , Framer Motion**
 
 🌐 **Live Demo:** https://onuryemez-dev.vercel.app
@@ -104,7 +104,7 @@ Tech: **Next.js 16, React 19, TypeScript, Tailwind CSS , Framer Motion**
 ### 🏨 The Paradise Hotel  
 A real-world hotel booking platform focusing on secure auth, transactions, and responsive UX.  
 
-➡️ Repo: https://github.com/Onuryemez54/The-Paradise-Hotel  
+➡️ Repo: https://github.com/Onuryemez54/The-Paradise-Hotel  <br/>  
 Tech: **Next.js 16, React 19, TypeScript, Prisma, Supabase Auth, PostgreSQL, Tailwind CSS**
 
 🌐 **Live Demo:** https://paradisehotel.live
@@ -115,7 +115,8 @@ Tech: **Next.js 16, React 19, TypeScript, Prisma, Supabase Auth, PostgreSQL, Tai
 A real-world travel planner with maps, Redux state, and persistent data 
 
 ➡️ Repo: https://github.com/Onuryemez54/Travel-Route-App <br/>
-Tech: React, Redux Toolkit, Leaflet.js, Tailwind <br/>
+Tech: React, Redux Toolkit, Leaflet.js, Tailwind 
+
 🚀 This project is currently being upgraded to a full-stack Next.js version (Next.js 15 + Supabase).
 
 
