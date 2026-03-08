@@ -89,6 +89,18 @@
 
 # ⭐ Featured Projects
 
+### 🏨 Personal Portfolio  
+A personal portfolio website built with Next.js, showcasing my projects, skills, and
+experience. It features a clean and responsive design, smooth animations, and is optimized
+for performance
+
+➡️ Repo: https://github.com/Onuryemez54/My-Portfolio-Website
+Tech: **Next.js 16, React 19, TypeScript, Tailwind CSS , Framer Motion**
+
+🌐 **Live Demo:** https://onuryemez-dev.vercel.app
+
+----
+
 ### 🏨 The Paradise Hotel  
 A real-world hotel booking platform focusing on secure auth, transactions, and responsive UX.  
 
@@ -96,7 +108,6 @@ A real-world hotel booking platform focusing on secure auth, transactions, and r
 Tech: **Next.js 16, React 19, TypeScript, Prisma, Supabase Auth, PostgreSQL, Tailwind CSS**
 
 🌐 **Live Demo:** https://paradisehotel.live
-
 
 ----
 
