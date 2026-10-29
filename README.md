@@ -133,25 +133,17 @@ Tech: React, Redux Toolkit, Leaflet.js, Tailwind
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+  <img src="./metrics/stats.svg" width="49%" />
+  <img src="./metrics/languages.svg" width="49%" />
 </p>
+
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
-</p>
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
+  <img src="./metrics/calendar.svg" width="70%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onuryemez54&theme=tokyonight&hide_border=true" width="70%" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Onuryemez54/Onuryemez54/output/snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Onuryemez54/Onuryemez54/output/snake-light.svg" />
-</picture>
 
 
 # 📫 Contact
